@@ -1,0 +1,6 @@
+/* 为博客文章列表中的每一项添加顶部边框作为分割线 */
+.md-post {
+  border-top: 2px solid #e0e0e0;
+  padding-top: 2rem;
+  margin-top: 2rem;
+}
